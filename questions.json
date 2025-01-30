@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Vad är 2+2?",
+    "options": ["2", "4", "5"],
+    "answer": "4"
+  },
+  {
+    "question": "Vilken färg har himlen?",
+    "options": ["Blå", "Grön", "Röd"],
+    "answer": "Blå"
+  },
+  {
+    "question": "Vilken är världens största ocean?",
+    "options": ["Atlanten", "Stilla havet", "Indiska oceanen"],
+    "answer": "Stilla havet"
+  },
+  {
+    "question": "Hur många ben har en spindel?",
+    "options": ["6", "8", "10"],
+    "answer": "8"
+  },
+  {
+    "question": "Vad är huvudstaden i Frankrike?",
+    "options": ["Madrid", "Paris", "Berlin"],
+    "answer": "Paris"
+  }
+]
